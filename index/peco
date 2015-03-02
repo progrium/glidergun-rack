@@ -1,0 +1,7 @@
+# install: mv peco_*/peco $PREFIX/bin
+
+latest linux_amd64 https://github.com/peco/peco/releases/download/v0.2.12/peco_linux_amd64.tar.gz f991ff6fd27cbf4d52c718059095d243
+latest darwin_amd64 https://github.com/peco/peco/releases/download/v0.2.12/peco_darwin_amd64.zip 117367a57a532361e5f44a352907f034
+
+0.2.12 linux_amd64 https://github.com/peco/peco/releases/download/v0.2.12/peco_linux_amd64.tar.gz f991ff6fd27cbf4d52c718059095d243
+0.2.12 darwin_amd64 https://github.com/peco/peco/releases/download/v0.2.12/peco_darwin_amd64.zip 117367a57a532361e5f44a352907f034
