@@ -1,0 +1,5 @@
+latest linux_amd64 http://www.sqlite.org/2015/sqlite-shell-linux-x86-3080803.zip 64b1787dc3dac50b8f3ba83b877c2032
+latest darwin_amd64 http://www.sqlite.org/2015/sqlite-shell-osx-x86-3080803.zip 2effdee78d2bb3670b1d0a3f2e1f0bae
+
+3.8 linux_amd64 http://www.sqlite.org/2015/sqlite-shell-linux-x86-3080803.zip 64b1787dc3dac50b8f3ba83b877c2032
+3.8 darwin_amd64 http://www.sqlite.org/2015/sqlite-shell-osx-x86-3080803.zip 2effdee78d2bb3670b1d0a3f2e1f0bae
