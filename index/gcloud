@@ -1,0 +1,2 @@
+# install: mv google-cloud-sdk $PREFIX && $PREFIX/google-cloud-sdk/install.sh --usage-reporting=false --path-update=false --bash-completion=false && ln -s $PREFIX/google-cloud-sdk/bin/gcloud $PREFIX/bin/
+latest * https://dl.google.com/dl/cloudsdk/release/google-cloud-sdk.zip
