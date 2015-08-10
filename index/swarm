@@ -1,0 +1,5 @@
+latest linux_amd64 https://github.com/lalyos/swarm/releases/download/v0.1.0/0.1.0_linux_amd64.tar.gz 75421e5814f8b1c17a20c760d653a9be
+latest darwin_amd64 https://github.com/lalyos/swarm/releases/download/v0.1.0/0.1.0_darwin_amd64.zip 9b0375ae800e036a453b8306f4af1211
+
+0.1.0 linux_amd64 https://github.com/lalyos/swarm/releases/download/v0.1.0/0.1.0_linux_amd64.tar.gz 75421e5814f8b1c17a20c760d653a9be
+0.1.0 darwin_amd64 https://github.com/lalyos/swarm/releases/download/v0.1.0/0.1.0_darwin_amd64.zip 9b0375ae800e036a453b8306f4af1211

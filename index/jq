@@ -1,5 +1,5 @@
-latest linux_amd64 http://stedolan.github.io/jq/download/linux64/jq 89c7bb6138fa6a5c989aca6b71586acc
-latest darwin_amd64 http://stedolan.github.io/jq/download/osx64/jq 086ddfa932021e98bf967aff74badafe
+latest linux_amd64 https://github.com/stedolan/jq/releases/download/jq-1.4/jq-linux-x86_64 89c7bb6138fa6a5c989aca6b71586acc
+latest darwin_amd64 https://github.com/stedolan/jq/releases/download/jq-1.4/jq-osx-x86_64 086ddfa932021e98bf967aff74badafe
 
-1.4 linux_amd64 http://stedolan.github.io/jq/download/linux64/jq 89c7bb6138fa6a5c989aca6b71586acc
-1.4 darwin_amd64 http://stedolan.github.io/jq/download/osx64/jq 086ddfa932021e98bf967aff74badafe
+1.4 linux_amd64 https://github.com/stedolan/jq/releases/download/jq-1.4/jq-linux-x86_64 89c7bb6138fa6a5c989aca6b71586acc
+1.4 darwin_amd64 https://github.com/stedolan/jq/releases/download/jq-1.4/jq-osx-x86_64 086ddfa932021e98bf967aff74badafe
